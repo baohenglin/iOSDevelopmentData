@@ -44,6 +44,9 @@
 [Bruce'sBlog](http://www.heyuan110.com/all-archives/)|软件开发者|[Github](https://github.com/heyuan110)
 [王中周的博客](http://foggry.com/)|曾就职于拉手网、高德地图|[CSDDN](https://blog.csdn.net/wzzvictory)
 [NSHipster](https://nshipster.cn/)|技术专栏|
+[desgard](https://www.desgard.com)|就职于爱奇艺，SwifterGG翻译组成员|[Github](https://github.com/desgard)
+
+
 
 
 
