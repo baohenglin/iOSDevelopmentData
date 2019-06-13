@@ -42,17 +42,17 @@
 [土土哥的博客](http://tutuge.me/)|燕泽堃，任职于阿里巴巴|[Github](https://github.com/zekunyan)
 [码农人生](http://msching.github.io/)|iOS开发者|[Github](https://github.com/msching)
 [Bruce'sBlog](http://www.heyuan110.com/all-archives/)|软件开发者|[Github](https://github.com/heyuan110)
-[王中周的博客](http://foggry.com/)|曾就职于拉手网、高德地图|[CSDDN](https://blog.csdn.net/wzzvictory)
+[王中周的博客](http://foggry.com/)|曾就职于拉手网、高德地图|[CSDN](https://blog.csdn.net/wzzvictory)
 [NSHipster](https://nshipster.cn/)|技术专栏|
 [desgard](https://www.desgard.com)|就职于爱奇艺，SwifterGG翻译组成员|[Github](https://github.com/desgard)
 
 
 ## *iOS开发知名团队博客*
 
-|博客地址|博主信息|备注|
-|:---|:--|:---:
-[字节跳动](https://techblog.toutiao.com)|字节跳动|
-[微信读书](http://wereadteam.github.io/archives/)|微信|
+|博客地址|所属公司|
+|:---|:--
+[字节跳动技术团队博客](https://techblog.toutiao.com)|字节跳动|
+[微信读书技术团队博客](http://wereadteam.github.io/archives/)|腾讯|
 
 
 
