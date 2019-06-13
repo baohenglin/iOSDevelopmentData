@@ -22,7 +22,7 @@
 [bang's blog](http://blog.cnbang.net/archives/)|JSPatch作者，就职于腾讯|bang590@gmail.com
 [面向信仰编程](https://draveness.me)|文章写的有深度|
 [halfrost的博客](https://halfrost.com/tag/ios/)|于德志，目前就职于饿了么|[Github](https://github.com/halfrost)
-[纯雷锋的技术博客](http://blog.leichunfeng.com)|目前就职于蚂蚁金服|[Github](https://github.com/leichunfeng)
+[纯雷锋的博客](http://blog.leichunfeng.com)|目前就职于蚂蚁金服|[Github](https://github.com/leichunfeng)
 [Joy_xx](https://juejin.im/user/5656f11760b28da566412f03/posts)|目前就职于今日头条|专注于工程效率、移动端性能、稳定性等技术领域
 [唐巧的博客](http://blog.devtang.com)|担任小猿搜题产品技术负责人。曾开发网易邮箱、网易微博、有道云笔记、猿题库、小猿搜题。|[Github](https://github.com/tangqiaoboy)
 [没有故事的桌同学](https://juejin.im/user/5624c86b60b2b199f7611227/posts)|就职于奇志科技|
@@ -47,8 +47,12 @@
 [desgard](https://www.desgard.com)|就职于爱奇艺，SwifterGG翻译组成员|[Github](https://github.com/desgard)
 
 
+## *iOS开发知名团队博客*
 
-
+|博客地址|博主信息|备注|
+|:---|:--|:---:
+[字节跳动](https://techblog.toutiao.com)|字节跳动|
+[微信读书](http://wereadteam.github.io/archives/)|微信|
 
 
 
