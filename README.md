@@ -17,6 +17,7 @@
 [Sunny的博客](http://blog.sunnyxx.com)|孙源，滴滴出行高级开发工程师|[Github](https://github.com/forkingdog)
 [YYKit作者](https://github.com/ibireme/)|YaoYuan，开发并维护着YYKit、YYText、YYModel、YYWebImage、YYImage、YYCache等开源组件|
 [bestswifter博客](https://bestswifter.com/#open)|张星宇，曾任职于百度,目前任职于今日头条|[Github](https://github.com/bestswifter/blog)、[掘金](https://juejin.im/user/57638ad8207703006b06e3ef/posts)
+[IAN的博客](https://www.ianisme.com/category/ios)|IAN 的个人博客|[Github](https://github.com/ianisme?tab=repositories)
 [微博@iOS程序犭袁](https://www.jianshu.com/u/96a14318a4de)|陈一龙，曾任职于新浪微博,目前任职于阿里巴巴|[Github](https://github.com/ChenYilong?tab=repositories)
 [OneV'sDen的博客](https://onevcat.com/page/2/#blog)|王巍，知名iOS开发者|[Github](https://github.com/onevcat)
 [bang's blog](http://blog.cnbang.net/archives/)|JSPatch作者，就职于腾讯|bang590@gmail.com
