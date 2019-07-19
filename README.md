@@ -60,11 +60,11 @@
 
 |大学|Github地址|备注|
 |:---|:--|:---:
-|清华大学|[清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)|
-|北京大学|[北京大学](https://github.com/lib-pku/libpku)|
-|浙江大学|[浙江大学](https://github.com/QSCTech/zju-icicles)|
-|中国科学技术大学|[中科大](https://github.com/USTC-Resource/USTC-Course)|
-|上海交通大学|[上海交大](https://github.com/CoolPhilChen/SJTU-Courses)|
+|Tsinghua University|[清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)|
+|Peking University|[北京大学](https://github.com/lib-pku/libpku)|
+|Zhejiang University|[浙江大学](https://github.com/QSCTech/zju-icicles)|
+|University of Science and Technology of China|[中国科大](https://github.com/USTC-Resource/USTC-Course)|
+|Shanghai Jiao Tong University|[上海交大](https://github.com/CoolPhilChen/SJTU-Courses)|
 
 
 
