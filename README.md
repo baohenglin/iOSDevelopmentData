@@ -46,7 +46,7 @@
 [王中周的博客](http://foggry.com/)|曾就职于拉手网、高德地图|[CSDN](https://blog.csdn.net/wzzvictory)
 [NSHipster](https://nshipster.cn/)|技术专栏|
 [desgard](https://www.desgard.com)|就职于爱奇艺，SwifterGG翻译组成员|[Github](https://github.com/desgard)
-|Limboy|优质博客|[Limboy](https://limboy.me/category/tech.html)
+|[Limboy](https://limboy.me/category/tech.html)|优质博客|[Limboy](https://limboy.me/category/tech.html)
 
 
 ## *iOS开发知名团队博客*
