@@ -5,7 +5,7 @@
 |:---|:--|:---:
 [左耳朵耗子](https://coolshell.cn)|陈皓，20年软件开发经验，10年以上项目和团队管理经验。擅长底层技术架构，团队建设，软件工程，软件研发咨询，以及全球软件团队协作管理。对高性能，高可用性，分布式，高并发，以及大规模数据处理系统有一些经验和心得。喜欢关注底层技术平台和互联网行业应用。技术擅长C/C++/Java和Unix/Linux/Windows。曾任职于Amazon、阿里巴巴等全球知名公司。|[《程序员练级攻略》](https://coolshell.cn/articles/4990.html)<br>[Github](https://github.com/haoel)、[CSDN](https://blog.csdn.net/haoel/article/list/1?)
 [MacTalk](http://macshuo.com)|池建强，极客邦技术负责人|
-[阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)|阮一峰，就职于阿里巴巴|[Github](https://github.com/ruanyf)
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)|阮一峰，就职于阿里巴巴|[Github](https://github.com/ruanyf)、[阮一峰的网络日志](http://www.ruanyifeng.com/blog/developer/)
 
 ## *iOS开发知名博客*
 收集了一些在iOS开发领域有影响力的知名博客，以方便查阅和学习，排名不分先后。
