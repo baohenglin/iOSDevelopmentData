@@ -12,8 +12,8 @@
 
 |博客地址|博主信息|备注|
 |:---|:--|:---:
-[故胤道长](https://www.jianshu.com/u/8d5b91490ca5)|Github全美前10的 Swift 开源作者。现Quora高级软件工程师，前 Amazon 技术负责人、Uber 移动架构师。电子工业出版社2018年度优秀作家。|卡内基梅隆大学硕士毕业，常年居住于美国的 iOS 开发者。著有《iOS 面试之道》一书
 [星光社的博客](https://ming1016.github.io)|戴铭，前滴滴出行技术专家|[Github](https://github.com/ming1016)
+[故胤道长](https://www.jianshu.com/u/8d5b91490ca5)|现Quora高级软件工程师，前 Amazon 技术负责人、Uber 移动架构师。|卡内基梅隆大学硕士毕业，著有《iOS 面试之道》一书
 [Sunny的博客](http://blog.sunnyxx.com)|孙源，滴滴出行高级开发工程师|[Github](https://github.com/forkingdog)
 [YYKit作者](https://github.com/ibireme/)|YaoYuan，开发并维护着YYKit、YYText、YYModel、YYWebImage、YYImage、YYCache等开源组件|
 [bestswifter博客](https://bestswifter.com/#open)|张星宇，曾任职于百度,目前任职于今日头条|[Github](https://github.com/bestswifter/blog)、[掘金](https://juejin.im/user/57638ad8207703006b06e3ef/posts)
