@@ -53,7 +53,8 @@
 
 |博客地址|所属公司|
 |:---|:--
-[字节跳动技术团队博客](https://techblog.toutiao.com)|字节跳动|
+[字节跳动技术团队掘金博客](https://juejin.im/user/1838039172387262/posts)|字节跳动|
+[字节跳动技术团队简书博客](https://www.jianshu.com/u/b3f97f005731)|字节跳动|
 [微信读书技术团队博客](http://wereadteam.github.io/archives/)|腾讯|
 
 
